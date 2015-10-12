@@ -1,0 +1,38 @@
+.box-style {
+	background-color: gray;
+	border-color: black;
+	border-width: .5px;
+}
+
+header .full-header {
+	width: 96%;
+	height: 200px;
+	margin: 2%;
+}
+
+header .three-column-header {}
+
+
+.two-column-left-column {
+	width: 60%;
+	height: 600px;
+	float: left;
+	display: inline;
+	margin: 0% 2%;
+}
+
+.two-column-right-column {
+	width: 34%;
+	height: 600px;
+	float: right;
+	display: inline;
+	margin-right: 2%;
+
+}
+
+footer .full-footer {
+	width: 96%;
+	height: 200px;
+	margin: 2%;
+	display:inline-block;
+}
