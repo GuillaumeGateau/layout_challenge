@@ -54,6 +54,46 @@ header .three-column-header {}
 	margin: 0% 2%;
 }
 
+.marketing-half-split-1 {
+	width: 47%;
+	margin: 0% 2%;
+	display: inline;
+	float:left;
+	height: 600px;
+}
+
+.marketing-half-split-2 {
+	width: 47%;
+	margin-right: 2%;
+	display: inline;
+	float:right;
+	height: 600px;
+}
+
+.marketing-third-split-1 {
+	width: 30.666%;
+	margin: 2% 2% 0% 2%;
+	display: inline;
+	float:left;
+	height: 200px;
+}
+
+.marketing-third-split-2 {
+	width: 30.666%;
+	margin: 2% 0% 0% 0%;
+	display: inline;
+	float:left;
+	height: 200px;
+}
+
+.marketing-third-split-3 {
+	width: 30.666%;
+	margin: 2% 2% 0% 2%;
+	display: inline;
+	float:right;
+	height: 200px;
+}
+
 footer .full-footer {
 	width: 96%;
 	height: 200px;
